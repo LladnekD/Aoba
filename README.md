@@ -1,8 +1,8 @@
 # Aoba
 
-[Aoba's resume](https://luyilin.github.io/Aoba/)
+[Aoba's resume](https://lladnekd.github.io/Aoba/)
 
-[English resume](https://luyilin.github.io/Aoba/resume-en)
+[English resume](https://lladnekd.github.io/Aoba/resume-en)
 
 ## Introduction
 
