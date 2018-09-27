@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div>
     <loading v-if="loading" />
     <div class="container" v-if="!loading">
@@ -58,7 +58,7 @@
             <li v-if="basicInfo.birthday"><span>{{ $inter.get('basicInfo.birthday') }}：</span>{{ basicInfo.birthday }}</li>
             <li><span>{{ $inter.get('basicInfo.school') }}：</span>{{ basicInfo.school }}</li>
             <li><span>{{ $inter.get('basicInfo.major') }}：</span>{{ basicInfo.major }}</li>
-            <li><span>{{ $inter.get('basicInfo.blog') }}：</span><a :href="basicInfo.blog" target="_blank">{{ basicInfo.blog }}</a></li>
+            
             <li><span>Github：</span><a :href="basicInfo.github" target="_blank">{{ basicInfo.github }}</a></li>
           </ul>
         </div>
@@ -70,7 +70,7 @@
           <div class="company" v-for="i in data.workExperience">
             <h3>
               <img :src="i.companyLogo">
-              {{i.companyName}}（{{ i.startDate }} - {{ i.endDate === '' || i.endDate === 'present' ? $inter.get('present') : i.endDate }}）
+              {{i.companyName}}（{{ i.startDate }} - {{ i.endDate === '' || i.endDate === 'present' ? $inter.get('Present') : i.endDate }}）
             </h3>
             <div class="project" v-for="j in i.project">
               <h4>
@@ -187,7 +187,7 @@
   }
 
   body {
-    font-family: PingFang SC,Lantinghei SC,-apple-system,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans;
+    font-family: Times, Times New Roman, Georgia, serif;
     -webkit-font-smoothing: antialiased;
     -webkit-print-color-adjust: exact;
   }
