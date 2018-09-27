@@ -9,7 +9,8 @@
     "major": "",
     "blog": "",
     "github": ""
-  },{
+  },
+   {
   "contact": {
     "tel": "310 339 9066",
     "email": "kendallday at gmail dot com",
@@ -42,13 +43,14 @@
       ]
     }
   ],
+  {
   "personalProject": [
     {
       "name": "",
       "description": "",
       "sourceCode": "",
       "demo": "",
-      "previewImage": ""
+      "previewImage": "",
     }
   ],
   "skills": [
