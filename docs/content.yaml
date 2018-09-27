@@ -3,14 +3,15 @@ basicInfo:
   name: Kendall Day
   gender: Male
   birthday: 08 26 1984
-  avatar: 
+  avatar: https://i.imgur.com/P7JRVHw.jpg?1
   desc: Graphic Designer Front-End Dev Photo Editor
   school: Santa Monica College
   major: Graphic Design
   github: https://github.com/LladnekD/
 contact:
   tel: 310-339-9066
-  email: kendallday at gmail dot com
+  email: kendallday@gmail.com
+  twitter: @YadLladnek
  
 
 workExperience:
@@ -41,5 +42,5 @@ skills:
   - HTML, CSS, JS, PHP
 - name: Back-End Development
   description:
-  - Python(1 year), Git(1 Year), Vue/DOM/Web APIs(1 Year)
+  - Python(1 year), Git(1 Year), Vue/DOM/Web APIs(~1 Year)
   
