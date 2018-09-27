@@ -30,12 +30,9 @@
               </li>
               <li>
                 <i class="iconfont icon-QQ"></i>
-                <span>QQ：{{ contact.qq }}</span>
+                <span>twitter：{{ contact.twitter }}</span>
               </li>
-              <li v-if="contact.telegram">
-                <i class="iconfont icon-telegram1"></i>
-                <span>Telegram：<a :href="'https://t.me/' + contact.telegram" target="_blank">{{ contact.telegram }}</a></span>
-              </li>
+              
             </ul>
           </div>
         </div>
