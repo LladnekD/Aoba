@@ -1,25 +1,25 @@
 const lang = {
   zh: {
-    resume: '的简历',
-    basicInfoTitle: 'Basic info 基本信息',
-    contactTitle: 'Contact 联系方式',
-    workExperience: 'Experience 项目与工作经验',
-    personalProject: '个人项目',
-    skill: 'Skill 技能',
+    resume: 'Resume',
+    basicInfoTitle: 'Basic info',
+    contactTitle: 'Contact',
+    workExperience: 'Experience',
+    personalProject: '',
+    skill: 'Skill',
     basicInfo: {
-      name: '个人信息',
-      birthday: '出生日期',
-      school: '毕业院校',
-      major: '专业',
-      blog: '博客'
+      name: '',
+      birthday: '',
+      school: '',
+      major: '',
+      blog: ''
     },
     contact: {
-      tel: '电话',
-      email: '邮箱',
+      tel: '',
+      email: '',
 
     },
-    sourceCode: '源代码',
-    present: '至今'
+    sourceCode: '',
+    present: ''
   },
   en: {
     resume: '\'s resume',
@@ -39,7 +39,7 @@ const lang = {
     contact: {
       tel: 'Tel',
       email: 'Email',
-      wechat: 'Wechat'
+      twitter: 'Twitter'
     },
     sourceCode: 'source code',
     present: 'present'
