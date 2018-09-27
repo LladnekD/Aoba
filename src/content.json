@@ -5,10 +5,10 @@
     "birthday": "8 26 84",
     "avatar": "https://imgur.com/P7JRVHw",
     "desc": "Graphic Designer/Front-end Developer/photo editor",
-    "school": "某高中",
-    "major": "动画设计（我猜的..",
-    "blog": "□□□□□",
-    "github": "https://github.com/LladnekD/"
+    "school": "",
+    "major": "",
+    "blog": "",
+    "github": ""
   },
   "contact": {
     "tel": "310 339 9066",
@@ -17,7 +17,7 @@
     "qq": "",
     "telegram": ""
   },
-  "application": "AHA!!!!",
+  "application": "",
   "workExperience": [
     {
       "companyLogo": "",
