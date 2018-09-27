@@ -42,10 +42,10 @@
   "personalProject": [
     {
     "name": "",
-    "description":",
+    "description":"",
     "sourceCode": "",
     "demo": "",
-    "previewImage": ""
+    "previewImage": "",
     }
   ],{
   "skills": [
@@ -60,7 +60,7 @@
     {
       "name": "",
       "description": [""],
-      "abandoned": [""]
+      "abandoned": [""],
     }
   ]
 }
