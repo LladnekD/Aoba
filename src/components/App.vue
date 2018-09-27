@@ -24,12 +24,9 @@
                   <a :href="'mailto:' + contact.email" target="_blank">{{ contact.email }}</a>
                 </span>
               </li>
+             
               <li>
-                <i class="iconfont icon-wechat1"></i>
-                <span>{{ $inter.get('contact.wechat') }}：{{ contact.wechat }}</span>
-              </li>
-              <li>
-                <i class="iconfont icon-QQ"></i>
+                <i class="iconfont icon-twitter"></i>
                 <span>twitter：{{ contact.twitter }}</span>
               </li>
               
