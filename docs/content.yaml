@@ -5,9 +5,8 @@ basicInfo:
   birthday:
   avatar: 
   desc: Graphic Designer.Front-End Developer.Photo Editor
-  school: Santa Monica
+  school: Santa Monica College
   major: Graphic Design
-  blog: 
   github: https://github.com/LladnekD/
 contact:
   tel: 310-339-9066
@@ -20,8 +19,18 @@ workExperience:
   startDate: 10.2015
   endDate: present
   project:
-  - name: 精灵物语3
-    description: 精灵物语3 是 Eagle Jump 主导开发、发行的一款动作冒险游戏。作为游戏的视觉设计团队的一员，主要负责 3D 制作。
+- companyLogo: 
+  companyName: IHSS 
+  startDate: 10.2015
+  endDate: present
+  project:
+- companyLogo: 
+  companyName: IHSS 
+  startDate: 10.2015
+  endDate: present
+  project:
+  - name: 
+    description: 
     sourceCode:
     demo: https://zh.moegirl.org/zh-hans/%E7%B2%BE%E7%81%B5%E7%89%A9%E8%AF%AD3,
     previewImage: https://wx2.sinaimg.cn/mw690/a2117cdbgy1fm609x0v47j206x04g75d.jpg
