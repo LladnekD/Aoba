@@ -31,14 +31,14 @@
           "sourceCode": "",
           "demo": "",
           "description": "",
-          "previewImage": ""
+          "previewImage": "",
         },
         {
           "name": "",
           "sourceCode": "",
           "demo": "",
           "description": "",
-          "previewImage": ""
+          "previewImage": "",
         }
       ]
     }
@@ -53,19 +53,21 @@
       "previewImage": "",
     }
   ],
+}
+{
   "skills": [
     {
       "name": "",
-      "description": [""]
-    },
-    {
-      "name": "",
-      "description": [""]
+      "description": [""],
     },
     {
       "name": "",
       "description": [""],
-      "abandoned": [""]
-    }
+    },
+    {
+      "name": "",
+      "description": [""],
+      "abandoned": [""],
+    },
   ]
 }
