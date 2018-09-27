@@ -1,29 +1,28 @@
 ﻿{
   "basicInfo": {
-    "name": "Kendall Day",
-    "gender": "Male",
-    "birthday": "08 26 84",
-    "avatar": "https://i.imgur.com/P7JRVHw.jpg?",
-    "desc": "Graphic Designer - FrontEnd Developer - Photo Editor",
-    "school": "Santa Monica College",
-    "major": "Graphic Design",
-    "blog": "□□□□□",
-    "github": "https://github.com/LladnekD/"
+    "name": "",
+    "gender": "",
+    "birthday": "",
+    "avatar": "",
+    "desc": "",
+    "school": "",
+    "major": "",
+    "blog": "",
+    "github": ""
   },
   "contact": {
-    "tel": "310 339 9066",
-    "email": "kendallday at gmail dot com",
-    "wechat": "□□□□□",
-    "linkedin": "https://www.linkedin.com/in/kendall-day-5272439/",
-    "twitter": "at YadLladnek",
+    "tel": "",
+    "email": "",
+    "linkedin": "",
+    "twitter": "",
   },
-  "application": "角色设计",
+  "application": "",
   "workExperience": [
     {
       "companyLogo": "",
-      "companyName": "In Home Support Services",
-      "startDate": "2013.01",
-      "endDate": "present",
+      "companyName": ",
+      "startDate": "",
+      "endDate": "",
       "project": [
         {
           "name": "",
