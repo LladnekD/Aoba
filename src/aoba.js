@@ -11,7 +11,7 @@ let inter
 class Aoba {
   constructor(i) {
     this.content = Object.assign({
-      lang: 'en',
+      lang: 'zh',
       path: './',
       indexFile: 'content.yaml',
       color: ''
