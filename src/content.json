@@ -3,18 +3,18 @@
     "name": "Kendall Day",
     "gender": "Male",
     "birthday": "8 26 84",
-    "avatar": "https://imgur.com/P7JRVHw",
+    "avatar": "https://i.imgur.com/P7JRVHw.jpg?1",
     "desc": "Graphic Designer/Front-end Developer/Photo Editor",
-    "school": "",
-    "major": "",
-    "blog": "",
-    "github": "",
+    "school": "Santa Monica College",
+    "major": "Graphic Design",
+  
+    "github": "https://github.com/LladnekD/",
   },
    
   "contact": {
     "tel": "310 339 9066",
     "email": "kendallday@gmail.com",
-    "wechat": "",
+    
     "twitter": "@YadLladnek",
   
   },
