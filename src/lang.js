@@ -3,7 +3,6 @@ const lang = {
     resume: '的简历',
     basicInfoTitle: 'Basic info 基本信息',
     contactTitle: 'Contact 联系方式',
-    application: 'Application 应聘岗位',
     workExperience: 'Experience 项目与工作经验',
     personalProject: '个人项目',
     skill: 'Skill 技能',
@@ -17,7 +16,7 @@ const lang = {
     contact: {
       tel: '电话',
       email: '邮箱',
-      wechat: '微信'
+
     },
     sourceCode: '源代码',
     present: '至今'
