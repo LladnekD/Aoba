@@ -29,31 +29,18 @@ workExperience:
   startDate: 10.2007
   endDate: 04.2015
   project:
-  - name: 
-    description: 
-    sourceCode:
-    demo: https://zh.moegirl.org/zh-hans/%E7%B2%BE%E7%81%B5%E7%89%A9%E8%AF%AD3,
-    previewImage: https://wx2.sinaimg.cn/mw690/a2117cdbgy1fm609x0v47j206x04g75d.jpg
-  - name: PECO
-    sourceCode:
-    demo:
-    description: PECO 是一款讲述现代少女坠入了充满玩偶怪物的异世界的游戏。主角的设计灵感来自萌萌的熊型睡袋，和八神光一起完成游戏的角色设计。
-    previewImage: https://wx3.sinaimg.cn/mw690/a2117cdbgy1fm6zeddd3pj20gl0mfq8d.jpg
+  
 personalProject:
-- name: emmm 好像还没有
-  description: 萌还不够么..
-  sourceCode:
-  demo:
-  previewImage: https://wx3.sinaimg.cn/mw690/a2117cdbgy1fm705blrdlj20jg0jg0ue.jpg
+
 skills:
-- name: 板绘
+- name: Photo Editing/Graphic Design
   description:
-  - 其实我画画蛮不错的 (⁎˃ᴗ˂⁎)，虽然没有<a href="https://zh.moegirl.org/zh-hans/%E5%85%AB%E7%A5%9E%E5%85%89(NEW_GAME!)">八神光</a>前辈好
-- name: 3D 制作
+  - Photoshop, Camera Raw, Indesign
+- name: Web Design/Front-End Development
   description:
-  - 从萌新到大佬的进阶之路
-- name: 其他属性
+  - HTML, CSS, JS, PHP
+- name: Back-End Development
   description:
-  - 性格认真，永远积极向上的思考
+  - Python(1 year), Git(1 Year), Vue/DOM/Web APIs(1 Year)
   abandoned:
   - 谁能想到坐拥后宫的女人竟然是个合法萝莉！
