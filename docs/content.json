@@ -7,8 +7,8 @@
     "desc": "",
     "school": "",
     "major": "",
-    "blog": "",
-    "github": ""
+    
+    "github": "",
   },
   "contact": {
     "tel": "",
@@ -18,8 +18,8 @@
   },
     "workExperience": [
     {
-      "companyLogo": "",
-      "companyName": ",
+      
+      "companyName": "",
       "startDate": "",
       "endDate": "",
       "project": [
@@ -28,7 +28,6 @@
           "sourceCode": "",
           "demo": "",
           "description": "",
-          "previewImage": ""
         },
         {
           "name": "",
