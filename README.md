@@ -1,10 +1,11 @@
 # Aoba
 
-[Kendall's resume](https://lladnekd.github.io/Aoba/)
 
 [Kendall's resume](https://lladnekd.github.io/Aoba/resume-en)
 
 ## Introduction
+
+My name is Kendall Day, and I have adapted this resume page to begin learning Vue.js. I've worked with DOM, and JS, so trying to practice VUE and refresh my JS knowledge. 
 
 Aoba is a single JavaScript file that fetches a configuration file (such as a .json file or a .yaml file), and renders it as a lovely one-page resume.
 
@@ -12,7 +13,7 @@ The project is build by [poi](https://github.com/egoist/poi), then we need not g
 
 The name is inspired by lovely Aoba Suzukaze in *New Game!*, maybe it can be a gift for young people who enter the workforce, with my best wishes.
 
-![Aoba Suzukaze]
+
 
 ## Quick Start
 
