@@ -12,7 +12,7 @@ The project is build by [poi](https://github.com/egoist/poi), then we need not g
 
 The name is inspired by lovely Aoba Suzukaze in *New Game!*, maybe it can be a gift for young people who enter the workforce, with my best wishes.
 
-![Aoba Suzukaze](https://wx3.sinaimg.cn/mw690/a2117cdbly1fm7csm5gopj208z07ijvh.jpg)
+![Aoba Suzukaze]
 
 ## Quick Start
 
